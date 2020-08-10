@@ -29,6 +29,12 @@ body {
   }
 }
 
+@media (min-width: 992px) {
+  .navbar-nav {
+    margin: auto;
+  }
+}
+
 a:hover {
   text-decoration: none;
 }
